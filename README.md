@@ -1,11 +1,1 @@
- ドライブ C のボリューム ラベルがありません。
- ボリューム シリアル番号は 86CF-3B5F です
-
- C:\Users\saga\kis_repo のディレクトリ
-
-2018/04/23  13:57    <DIR>          .
-2018/04/23  13:57    <DIR>          ..
-2018/04/23  13:57    <DIR>          KIS_repo
-2018/04/23  14:02                 0 README.md
-               1 個のファイル                   0 バイト
-               3 個のディレクトリ  621,226,549,248 バイトの空き領域
+This repository is for lectures of Git in OPU
